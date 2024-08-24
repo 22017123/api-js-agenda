@@ -59,6 +59,10 @@ Para a aplicação com:
 
 `Ctrl + C`
 
+Veja o id do container com:
+
+`docker ps`
+
 Pare o container com:
 
 `docker stop <container_id>`
