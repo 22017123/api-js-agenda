@@ -55,7 +55,7 @@ Para testar os endpoints faça requisições para:
 
 `http://localhost:3000/`
 
-Para a aplicação com:
+Pare a aplicação com:
 
 `Ctrl + C`
 
